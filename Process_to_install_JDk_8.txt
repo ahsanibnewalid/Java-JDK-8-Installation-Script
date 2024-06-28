@@ -1,0 +1,12 @@
+Step 1 :- check      java -version
+Step 2 :- install JDK 8 
+Step 3 :- sudo update-alternatives --config java
+
+Step 4 :- java -version 
+
+
+
+Java 8 is Java 1.8, where 8 is the version number, and 1.8 is the version string
+
+
+
